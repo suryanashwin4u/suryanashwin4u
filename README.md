@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ashwani Kumar student of GGSIPU USICT
 - 👀 I’m interested in Javascript,php and python development
-- 🌱 I’m currently learning streamlit and machine learning using python
-- 💞️ I’m looking to collaborate on MERN stack projects and machine learning projects
 - 📫 How to reach me : you can call me anytime on phone:+91 8076452716
 
 <!---
